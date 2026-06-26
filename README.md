@@ -1,5 +1,4 @@
-# 💫 About Me:
-Autualmente estou aprendendo full stack<br><br>python, java script, sql, flash, fast api, node<br><br>e pretendo seguir em data science com python
+
 
 
 ## 🌐 Socials:
